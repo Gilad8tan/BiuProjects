@@ -1,7 +1,7 @@
 /******************************************
-* Student name: Gilad Eitan
-* Student ID:311810030
-* Submit sys ID:eitangi
+* Student name: Gilad X
+* Student ID:X
+* Submit sys ID:X
 * Exercise name: Exercise 2
 ******************************************/
 #include <stdio.h>
