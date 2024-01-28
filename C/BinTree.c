@@ -1,7 +1,7 @@
 /****************************************************************************
-* Student name: Gilad Eitan
-* Student ID:311810030
-* Submit sys ID:eitangi
+* Student name: X
+* Student ID:X
+* Submit sys ID:X
 * Exercise name: Exercise 6
 ****************************************************************************/
 
